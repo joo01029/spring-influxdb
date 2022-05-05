@@ -1,0 +1,7 @@
+spring:
+  influxdb:
+    url: http://localhost:8086
+    username: admin
+    password: qwer1234
+    database: qwer
+    retention-policy: autogen
